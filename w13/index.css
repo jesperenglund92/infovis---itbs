@@ -1,0 +1,11 @@
+text {
+  font-family: sans-serif;
+}
+
+circle.men {
+  fill: steelblue;
+}
+
+circle.women {
+  fill: olivedrab;
+}
